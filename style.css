@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://accurate.id/wp-content/uploads/2021/01/accurate.id-Trading-adalah-Pengertian-Jenis-Keuntungan-dan-Kerugiannya.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+td {
+    color: red;
+}
+table {
+    border-color: red;
+}
+.h1-login{
+    color: white;
+}
+body {
+    background-color: darkgray;
+}
+p {
+    color: aliceblue;
+}
+
+.me{
+    color: red;
+    animation: blink;
+}
+@keyframes blink{
+    50% {
+        opacity: 0;  
+    } 
+    50% {
+        opacity: .5;  
+    }
+   
+}
